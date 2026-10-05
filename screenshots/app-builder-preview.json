@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Bakuran",
+      "hasCanvas": false,
+      "bodyTextLen": 47,
+      "bodyTextHash": "bd362f2d35ca1afd79b6e321139099fa5e75233c477122460a97be2ddbd932e2",
+      "bodyTextPrefix": "NAIWAN. HANAPIN. Bakuran Preparing the grounds…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Bakuran",
+      "hasCanvas": false,
+      "bodyTextLen": 47,
+      "bodyTextHash": "bd362f2d35ca1afd79b6e321139099fa5e75233c477122460a97be2ddbd932e2",
+      "bodyTextPrefix": "NAIWAN. HANAPIN. Bakuran Preparing the grounds…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
